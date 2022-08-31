@@ -1,6 +1,6 @@
 # Yandex-Practicum-Projects
 Для полного отображения готового проекта, смотрите по ссылке в nbviewer:
-https://nbviewer.org/github/ErokhinVi/Yandex-Practicum-Projects/blob/2f91eead6d0e5b3cfcd8017af2b35dc18a65c583/Analysis%20of%20games%20and%20gaming%20platforms/games_and_platfroms.ipynb
+https://nbviewer.org/github/ErokhinVi/Yandex-Practicum-Projects/blob/b08a9f38d2e2f77cd439487e6abad6c1b15dbc99/flats/flats_analysis.ipynb
 
-В данном проекте мною был проанализированы продажи игр на различных платформах в интернет-магазине.
-А также составлен прогноз на следующий год для составления рекламных кампаний.
+В данном проекте мною был проанализированы продажи квартир в сервисе "Яндекс.Недвижимость".
+Найдены интересные зависимости и особенности, которые существуют на рынке недвижимости. А также даны рекомендации по тому, когда наиболее выгодно продавать\покупать квартиру.
