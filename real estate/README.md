@@ -37,7 +37,7 @@
 
 ## Стек технологий:
 
-Pandas, matplotlib, seaborn.
+Pandas, matplotlib, seaborn, plotly
 
 ## Статус проекта:
 
