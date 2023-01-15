@@ -8,7 +8,7 @@
 | № | Название проекта  | Краткое описание | Инструменты |
 |--|--|--|--|
 |1| [Яндекс.Музыка](https://github.com/ErokhinVi/Yandex-Practicum-Projects/tree/main/music) | Исследование поведения пользователей Яндекс.Музыки двух столиц. | `pandas` |
-|2| [Исследование надёжности заёмщиков]([https://github.com/ErokhinVi/Yandex-Practicum-Projects/tree/main/music](https://github.com/ErokhinVi/Yandex-Practicum-Projects/tree/main/credits))| Проанализировать статистику о платёжеспособности клиентов кредитного отдела банка. | `pandas` |
+|2| [Исследование надёжности заёмщиков](https://github.com/ErokhinVi/Yandex-Practicum-Projects/tree/main/credits) | Проанализировать статистику о платёжеспособности клиентов кредитного отдела банка. | `pandas` |
 |3| [Исследование объявлений о продаже квартир](https://github.com/KirillErokhin/yandex_practicum_DS_projects/blob/main/03_real_estate) | На основании данных сервиса Яндекс.Недвижимость определить рыночную стоимость объектов недвижимости и установить параметры, которые помогут отследить аномалии и мошенническую деятельность. | `pandas` , `matplotlib`, `seaborn`|
 |4| [Определение перспективного тарифа для телеком-компании](https://github.com/KirillErokhin/yandex_practicum_DS_projects/tree/main/04_telecom) | Исследование поведения клиентов, на основании предварительного анализа тарифов на небольшой выборке клиентов, и выявление лучшего тарифа для определенной категории клиентов. | `pandas` , `matplotlib`, `numpy`, `scipy`|
 |5| [Сборный проект. Продажа игр.](https://github.com/KirillErokhin/yandex_practicum_DS_projects/tree/main/05_games) | Исследование продажи игр по всему миру с целью выявить определяющие успешность игры закономерности. | `pandas` , `matplotlib`, `numpy`, `scipy`, `seaborn`|
