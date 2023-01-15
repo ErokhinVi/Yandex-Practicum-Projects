@@ -1,3 +1,4 @@
+Полную версию проекта можно посмотреть здесь: https://nbviewer.org/github/ErokhinVi/Yandex-Practicum-Projects/blob/2c61a7bbf693bab26624bc323ca7f7a157dd54bb/real%20estate/flats_analysis.ipynb
 --------------
 # Исследование объявлений о продаже квартир
 
