@@ -23,9 +23,12 @@
      - Быстродействие
      - Наихудшая точность среди остальных моделей
      - Модель адекватна
+
+Наибольшая метрика на валидации получилась у модели типа RandomForest( Accuracy = .82)
+
 ## Стек технологий:
 
-Pandas, jupyter notebook,scipy, numpy,plotly
+Pandas, jupyter notebook, numpy, plotly, sklearn
 
 ## Статус проекта:
 
