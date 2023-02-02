@@ -21,10 +21,18 @@
 1. Наиболее прибыльные и популярные платформы:
     - PS4
     - XOne
-X360
-PS3
-3DS
-
+    - X360
+    - PS3
+    - 3DS
+2. Наиболее прибыльные и популярные жанры:
+    - Action
+    - Shooter
+    - Sports
+    - Role-PLaying
+    - Misc
+3. Наиболее прибыльный рейтинг пользователя:
+    - M - Mature
+    - E - Everyone
 ## Стек технологий:
 
 Pandas, jupyter notebook
