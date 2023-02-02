@@ -28,7 +28,7 @@ https://nbviewer.org/github/ErokhinVi/Yandex-Practicum-Projects/blob/b89373c16c5
 
 ## Стек технологий:
 
-Pandas, jupyter notebook, numpy, plotly, sklearn, math, scipy
+Pandas, jupyter notebook, numpy, plotly, sklearn, math, scipy, catboost
 
 ## Статус проекта:
 
